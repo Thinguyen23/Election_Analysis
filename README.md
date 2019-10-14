@@ -1,7 +1,7 @@
 # Election_Analysis
 
 ## Project Overview
-The following election audit was conducted as a request from a Colorado Board of Elections employee on a recent local congressional election. The tasks given are
+The following election audit was conducted as a request from a Colorado Board of Elections employee on a recent local congressional election. The tasks given are:
 
 1. Calculate total number of votes cast.
 2. Get a complete list of candidates who received votes.
@@ -16,7 +16,7 @@ The following election audit was conducted as a request from a Colorado Board of
 ## Summary
 The analysis of the election show that:
 - There were 369,711 votes cast in the election.
-- The candidate were:
+- The candidates were:
     - Charles Casper Stockham
     - Diana DeGette
     - Raymond Anthony Doane
@@ -28,7 +28,18 @@ The analysis of the election show that:
     - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes
     
 ## Challenge Overview
+In this challenge, the team will help election commision to confirm voter turnout for each county. To do this, we need to find:
+
+1. The number of votes that were cast for each county
+2. The percentage of votes each county contributed to the election
+3. The county with largest turnout
 
 ## Challenge Summary
+The analysis of the election shows that:
+- The results for each county were:
+    - Jefferson contributed 10.5% of the votes with 38,855 votes
+    - Denver contributed 82.8% of the votes with 306,055 votes
+    - Arapahoe contributed 6.7% of the votes with 24,801 votes
+- The county with largest turnout is Denver with 306,055 votes
 
 
